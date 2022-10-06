@@ -6,7 +6,7 @@ Olá, sou Laura -> Responsável pelo processo de mineração dos dados.
 
 Olá, sou Murilo
 
-Olá, sou Dayana
+Olá, sou Dayana -> Responsável pelo processo de split dos dados.
 
 Olá, Sou Camille
 
